@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Pavel! 👋
 
-<!--
-**pav-dev98/pav-dev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Engineer & Automation Enthusiast
+I specialize in building scalable microservices and efficient automated workflows. I love bridge the gap between complex backend logic and seamless user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Go, Ruby on Rails, TypeScript, JavaScript.
+* **Infrastructure:** Docker, PostgreSQL, gRPC.
+* **Automation:** n8n, Supabase, Webhooks.
+* **Tools:** Git, CLI development (AegisAuth, Spot).
+
+### 📈 Featured Projects
+* **[n8n-lead-automation](./n8n-lead-automation):** Event-driven lead processing engine.
+* **[AegisAuth](./AegisAuth):** High-performance CLI for local project management.
+
+---
+
+### 📫 How to reach me
+* **LinkedIn:** https://www.linkedin.com/in/pavelmansilla/
+* **Location:** Tingo María, Huánuco, Perú 🇵🇪
